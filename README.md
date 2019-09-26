@@ -1,0 +1,2 @@
+# Fritz
+Jot for mojo
